@@ -1,0 +1,20 @@
+.swiper-container {
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
+
+.swiper-container-autoheight, .swiper-container-autoheight .swiper-slide {
+    /* height: auto; */
+}
+
+.gallery {
+    overflow: hidden;
+}
+
+.main2023-slider {
+    overflow: visible;
+}
